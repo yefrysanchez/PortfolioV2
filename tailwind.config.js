@@ -9,7 +9,8 @@ export default {
       fontFamily: {
         lato: ["Lato", "sans-serif"],
       }
-    },
+    }, 
+  
   },
   plugins: [],
 }
